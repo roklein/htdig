@@ -1,3 +1,8 @@
+Thu Sep 15 11:37:22 2005  Gilles Detillieux  <grdetil at scrc.umanitoba.ca>
+
+    * htdig/ExternalParser.cc (parse): Fixed typo in variable name on line 285,
+      from Jul 12 fix, caught by Anthony Arnone.
+
 Tue Jul 12 11:22:26 2005  Gilles Detillieux  <grdetil at scrc.umanitoba.ca>
 
     * htdig/ExternalParser.cc (parse): Fixed to give a meaningful error
